@@ -1,4 +1,4 @@
-# importing the requests library
+# imports
 import requests
 import os
 

@@ -1,4 +1,4 @@
-# import statements
+# imports
 from datetime import datetime, timedelta
 
 # returns the current formatted date according to the ISO 8601 standard which is what Marketo uses as standard
